@@ -179,6 +179,9 @@ body {
 
 body {
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .header {
@@ -223,3 +226,9 @@ body {
   color: var(--White);
   font-size: 1.2em;
 }
+
+.main {}
+
+.main__h3 {}
+
+sectio
